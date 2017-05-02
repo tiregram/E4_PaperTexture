@@ -6,11 +6,10 @@
 [Article]()
 [Paper]()
 [Suplements]()
-
+# PAPER LIST
 ## 2016 PAPER
 ### SESSION: Materials
-
-Szymon Rusinkiewicz 
+http://kesen.realtimerendering.com/sig2016.html
 
 #### Reflectance modeling by neural texture synthesis
 [Page](http://dl.acm.org/authorize.cfm?key=N17237)
@@ -26,38 +25,51 @@ Miika Aittala Timo Aila Jaakko Lehtinen
 
 Leo Miyashita Kota Ishihara Yoshihiro Watanabe Masatoshi Ishikawa 
 
-
-# PAPER LIST
-http://kesen.realtimerendering.com/sig2016.html
-
+## 2015 Paper
 http://kesen.realtimerendering.com/sig2015.html
-
+## 2014 Paper
 http://kesen.realtimerendering.com/sig2014.html
-
+## 2013 Paper
 http://kesen.realtimerendering.com/sig2013.html
-
+## 2012 Paper
 http://kesen.realtimerendering.com/sig2012.html
-
+## 2011 Paper
 http://kesen.realtimerendering.com/sig2011.html
-
+## 2010 Paper
 http://kesen.realtimerendering.com/sig2010.html
 
+## 2009 Paper
 http://kesen.realtimerendering.com/sig2009.html
 
-## 2008
+## 2008 Paper
 http://kesen.realtimerendering.com/sig2008.html
 
 #### Real-time rendering of textures defined on discontinuous distance fields
-http://www.cs.nyu.edu/~parilov/normdscnt.html
+[Page](http://www.cs.nyu.edu/~parilov/normdscnt.html)
 
 #### Multiscale Texture Synthesis
 [Page](http://www.cs.columbia.edu/cg/mts/)
-http://kesen.realtimerendering.com/sig2007.html
 
 ## 2007 Paper
+[List](http://kesen.realtimerendering.com/sig2007.html)
+
 #### Solid Texture Synthesis from 2D Exemplars
 [Page](http://johanneskopf.de/publications/solid/index.html)
-[PAPER]()
+
+## 2006 Paper
+[List](http://kesen.realtimerendering.com/sig2006.html
 
 
-http://kesen.realtimerendering.com/sig2006.html
+## 2005 Paper
+#### Texture Design Using a Simplicial Complex of Morphable Textures
+[Page](http://graphics.ucsd.edu/~matthias/publications.htm)
+
+
+
+
+
+# Paper Page
+http://www.liyiwei.org/papers/
+
+
+
