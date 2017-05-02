@@ -42,7 +42,8 @@ http://kesen.realtimerendering.com/sig2010.html
 http://kesen.realtimerendering.com/sig2009.html
 
 #### Enrichment Textures for Detailed Cutting of Shells
-[Page]()
+[Page](http://dl.acm.org/citation.cfm?id=1531356)
+
 #### Visio-lization: Generating Novel Facial Images
 [Page](http://dl.acm.org/citation.cfm?doid=1531326.1531363)
 
