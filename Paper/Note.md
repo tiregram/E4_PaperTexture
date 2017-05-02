@@ -41,6 +41,14 @@ http://kesen.realtimerendering.com/sig2010.html
 ## 2009 Paper
 http://kesen.realtimerendering.com/sig2009.html
 
+#### Enrichment Textures for Detailed Cutting of Shells
+[Page]()
+#### Visio-lization: Generating Novel Facial Images
+[Page](http://dl.acm.org/citation.cfm?doid=1531326.1531363)
+
+#### http://reality.cs.ucl.ac.uk/projects/mmill/weyrich09fabricating.html
+[Page](http://reality.cs.ucl.ac.uk/projects/mmill/weyrich09fabricating.html)
+
 ## 2008 Paper
 http://kesen.realtimerendering.com/sig2008.html
 
@@ -70,6 +78,6 @@ http://kesen.realtimerendering.com/sig2008.html
 
 # Paper Page
 http://www.liyiwei.org/papers/
-
+http://reality.cs.ucl.ac.uk/weyrich.html
 
 
