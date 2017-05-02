@@ -25,3 +25,39 @@ Miika Aittala Timo Aila Jaakko Lehtinen
 [Suplements]()
 
 Leo Miyashita Kota Ishihara Yoshihiro Watanabe Masatoshi Ishikawa 
+
+
+# PAPER LIST
+http://kesen.realtimerendering.com/sig2016.html
+
+http://kesen.realtimerendering.com/sig2015.html
+
+http://kesen.realtimerendering.com/sig2014.html
+
+http://kesen.realtimerendering.com/sig2013.html
+
+http://kesen.realtimerendering.com/sig2012.html
+
+http://kesen.realtimerendering.com/sig2011.html
+
+http://kesen.realtimerendering.com/sig2010.html
+
+http://kesen.realtimerendering.com/sig2009.html
+
+## 2008
+http://kesen.realtimerendering.com/sig2008.html
+
+#### Real-time rendering of textures defined on discontinuous distance fields
+http://www.cs.nyu.edu/~parilov/normdscnt.html
+
+#### Multiscale Texture Synthesis
+[Page](http://www.cs.columbia.edu/cg/mts/)
+http://kesen.realtimerendering.com/sig2007.html
+
+## 2007 Paper
+#### Solid Texture Synthesis from 2D Exemplars
+[Page](http://johanneskopf.de/publications/solid/index.html)
+[PAPER]()
+
+
+http://kesen.realtimerendering.com/sig2006.html
