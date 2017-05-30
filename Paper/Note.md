@@ -70,8 +70,9 @@ http://kesen.realtimerendering.com/sig2009.html
 #### Visio-lization: Generating Novel Facial Images
 [Page](http://dl.acm.org/citation.cfm?doid=1531326.1531363)
 
-#### http://reality.cs.ucl.ac.uk/projects/mmill/weyrich09fabricating.html
+
 [Page](http://reality.cs.ucl.ac.uk/projects/mmill/weyrich09fabricating.html)
+
 
 ## 2008 Paper
 http://kesen.realtimerendering.com/sig2008.html
