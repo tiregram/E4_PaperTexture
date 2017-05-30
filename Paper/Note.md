@@ -27,17 +27,40 @@ Leo Miyashita Kota Ishihara Yoshihiro Watanabe Masatoshi Ishikawa
 
 ## 2015 Paper
 http://kesen.realtimerendering.com/sig2015.html
+
+#### LOD Generation for Urban Scenes
+[Page]()
+[Paper]()
+[Suplements]()
+
+#### Multi-Scale Modeling and Rendering of Granular Materials
+[Page]()
+[Paper]()
+[Suplements]()
+
 ## 2014 Paper
 http://kesen.realtimerendering.com/sig2014.html
 ## 2013 Paper
 http://kesen.realtimerendering.com/sig2013.html
 ## 2012 Paper
 http://kesen.realtimerendering.com/sig2012.html
+
+#### Gabor Noise by Example
+[Page]()
+[Paper]()
+[Suplements]()
+
 ## 2011 Paper
 http://kesen.realtimerendering.com/sig2011.html
+
+#### Discrete Element Textures
+[Page]()
+[Paper]()
+[Suplements]()
+
 ## 2010 Paper
 http://kesen.realtimerendering.com/sig2010.html
-
+#### Synthesis of Architectural Textures
 ## 2009 Paper
 http://kesen.realtimerendering.com/sig2009.html
 
